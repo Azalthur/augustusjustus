@@ -20,11 +20,11 @@ I have a long time interest in plants. Around 10 years ago I had a 100 sq meter 
 * Sanseveria 'Mikado' 
 * Haworthiopsis attenuata
 * Crassula Portulacea (aka Jade plant)
-* Aloe Vera "Medicina"
+* Aloe Vera 
 * Ficus 'Audrey' Benghalensis
 * Chlorophytum Comosum 'Variagatum' (6x) (aka Spider Plant)
 * Chlorophytum Comosum 'Vittatum'		(aka Spiderplant)
-* Pilea Peperomioides (2x)  (aka Chinese Moneyplant
+* Pilea Peperomioides (2x)  (aka Chinese Money plant)
 * Philodendron Scandens 'Brasil' (2x)
 * Scindapsus Pictus
 * Alocasia Wentii (aka Elephant Ear)
