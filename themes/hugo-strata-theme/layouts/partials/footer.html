@@ -10,6 +10,9 @@
 		{{ with .Site.Params.sidebar.instagram }}
         <li><a href="//instagram.com/{{ . }}" target="_blank" class="icon fa-instagram"><span class="label">instagram</span></a></li>
         {{ end }}
+		{{ with .Site.Params.sidebar.discogs }}
+        <li><a href="//discogs.com/user/{{ . }}/collection" target="_blank" class="icon fa-compact-disc"><span class="label">discogs</span></a></li>
+        {{ end }}
 		{{ with .Site.Params.sidebar.twitter }}
 		<li><a href="//twitter.com/{{ . }}" target="_blank" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
 		{{ end }}

@@ -33,6 +33,7 @@ paginate = 10
 		# The icons will be shown if you enter your username
 		twitter = ""
 		instagram = "augustusjustus"
+		discogs = "augustusjustus"
 		github = ""
 		gitlab = ""
 		dribbble = ""
