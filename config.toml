@@ -1,8 +1,8 @@
-baseurl = "https://example.org/"
+baseurl = "https://augustusjustus.netlify.com"
 languageCode = "en-us"
 title = "AugustusJustus"
 theme = "hugo-strata-theme"
-disqusShortname = "spf13"
+disqusShortname = ""
 # Enable Google Analytics by inserting your tracking code
 googleAnalytics = ""
 # Define how many posts should appear on a site
