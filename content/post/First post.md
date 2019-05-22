@@ -13,34 +13,33 @@ I have a long time interest in plants. Around 10 years ago I had a 100 sq meter 
 
 ### List of my plants
 * Pachira Aquatica
-* Musa
+* Musa (aka Banana)
 * Yucca Elephantipes
 * Calathea Lancifolia
 * Philodendron 'Imperial Green'
 * Sanseveria 'Mikado' 
 * Haworthiopsis attenuata
-* Crassula Portulacea 
-* Aloe Vera
+* Crassula Portulacea (aka Jade plant)
+* Aloe Vera "Medicina"
 * Ficus 'Audrey' Benghalensis
-* Chlorophytum Comosum 'Variagatum' (6x)
-* Chlorophytum Comosum 'Vittatum'
-* Pilea Peperomioides (2x)
+* Chlorophytum Comosum 'Variagatum' (6x) (aka Spider Plant)
+* Chlorophytum Comosum 'Vittatum'		(aka Spiderplant)
+* Pilea Peperomioides (2x)  (aka Chinese Moneyplant
 * Philodendron Scandens 'Brasil' (2x)
 * Scindapsus Pictus
-* Areca
-* Alocasia Wentii
+* Alocasia Wentii (aka Elephant Ear)
 * Monstera Deliciosa (2x)
 * Maranta leuconeura var. erythroneura
 * Spathiphyllum
-* Zingiber officinale
+* Zingiber officinale (aka Ginger)
 * Tillandsia  ionantha v. scaposa 
 * Tillandsia harasii 
 * Tillandsia ionata Fuego
 * Tradescantia fluminensis variegata
-* Acanthocereus tetragonus
+* Acanthocereus tetragonus (aka Triangle Cactus)
 * Senecio kilimanjaro
-* Ceropegia woodii (3x)
+* Ceropegia woodii (3x) (aka Chain of Hearts)
 * Coffea Arabica
 * Cereus repandus var. monstrosus rojo
-* Dypsis lutescens 
+* Dypsis lutescens (aka Areca)
 * Citrus Limon
