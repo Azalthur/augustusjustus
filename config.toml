@@ -1,4 +1,4 @@
-baseurl = "https://augustusjustus.netlify.com"
+baseurl = "https://augustusjustus.netlify.com/"
 languageCode = "en-us"
 title = "AugustusJustus"
 theme = "hugo-strata-theme"
