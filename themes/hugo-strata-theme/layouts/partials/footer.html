@@ -4,7 +4,10 @@
 		{{ with .Site.Params.sidebar.googleplus }}
 		<li><a href="//plus.google.com/+{{ . }}" target="_blank" class="icon fa-google-plus"><span class="label">Google Plus</span></a></li>
 		{{ end }}
-		{{ with .Site.Params.sidebar.facebook }}
+		{{ with .Site.Params.sidebar.instagram }}
+		<li><a href="//instagram.com/+{{ . }}" target="_blank" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
+		{{ end }}
+		{{ with .Site.Params.sidebar.instagram }}
         <li><a href="//facebook.com/{{ . }}" target="_blank" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
         {{ end }}
 		{{ with .Site.Params.sidebar.twitter }}
