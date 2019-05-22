@@ -1,6 +1,6 @@
 +++
 banner = "banners/placeholder.png"
-categories = ["Ramblings"]["Plants"]
+categories = ["Ramblings" "Plants"]
 date = "2019-05-22T14:43:46+02:00"
 menu = ""
 tags = []
