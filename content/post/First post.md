@@ -43,3 +43,15 @@ I have a long time interest in plants. Around 10 years ago I had a 100 sq meter 
 * Cereus repandus var. monstrosus rojo
 * Dypsis lutescens (aka Areca)
 * Citrus Limon
+
+### Wishlist
+These are plants I'd still like to have. Listed in the preferable order of obtaining.  
+* Philodendron Squamiferum
+* Strelitzia Nicolai
+* Epipremnum Pinnatum Cebu Blue
+* Chlorophytum Comosum - fully green (not variegated)
+* Chlorophytum Comosum "Bonnie" 
+* Camellia Sinensis (aka Tea plant)
+* Philodendron Hastatum
+* Rhaphidophora Tetrasperma
+* Clusa Rosea
